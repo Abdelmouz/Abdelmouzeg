@@ -434,3 +434,9 @@ padding: 25px;
     color: var(--color);
     font-weight: bold;
 }
+
+
+
+.features .feat h3{
+    margin: 30px -1px;
+}
